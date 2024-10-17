@@ -1,0 +1,61 @@
+﻿.header-menu {
+    margin-left: 10px;
+    padding-top: 10px;
+}
+.header-menu:hover {
+    color: red;
+}
+
+.row-center {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.intro-row {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.intro-info {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.intro-points {
+    padding: 10px;
+}
+
+.intro-img {
+    width: 300px;
+    height: 300px;
+}
+
+.cards {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-evenly;
+
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 200px;
+}
+
+
+.card-img {
+    width: 150px;
+    height: 150px;
+}
