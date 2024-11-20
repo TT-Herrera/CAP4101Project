@@ -5,10 +5,26 @@
 .header-menu:hover {
     color: red;
 }
-.main-title-wrapper {
+.main-title-wrapper-center {
     display: flex;
     flex-direction: row;
     justify-content: center;
+    height: 125px;
+    background-color: orange;
+}
+.main-title-wrapper-left {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    height: 125px;
+    background-color: orange;
+}
+.main-title-wrapper-right {
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    height: 125px;
+    background-color: orange;
 }
 .row-center {
     display: flex;
