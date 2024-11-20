@@ -80,8 +80,13 @@
 .intro-img {
     width: 150px;
     height: 100px;
-    border-radius: 75%;
     align-items: center;
+    border-radius: 75%;
     justify-content: center;
     margin: 10px auto;
+}
+
+.intro-imgtitle {
+    width: 150px;
+    height: 150px;
 }
