@@ -43,6 +43,24 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.subtitle-bold{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    font-size: x-large;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.subtext-light{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    font-size: medium;
+    color: lightgrey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .intro-row {
     display: flex;
     flex-direction: row;
