@@ -90,3 +90,10 @@
     width: 150px;
     height: 150px;
 }
+.difference-img {
+    width: 150px;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+    margin: 10px auto;
+}
