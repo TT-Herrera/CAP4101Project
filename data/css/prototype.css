@@ -78,10 +78,10 @@
 }
 
 .intro-img {
-    width: 150px;
+    width: 100px;
     height: 100px;
     align-items: center;
-    border-radius: 75%;
+    border-radius: calc(100/2);
     justify-content: center;
     margin: 10px auto;
 }
