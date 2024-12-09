@@ -26,11 +26,13 @@
     display: flex;
     flex-direction: column;
     text-align: center;
+    align-items: center;
 }
 
 .intro-img {
-    width: 1215px;
-    height: auto;
+    padding: 20px;
+    width: 60%;
+    height: 60%;
 }
 
 .cards {
